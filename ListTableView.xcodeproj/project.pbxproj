@@ -12,6 +12,7 @@
 		D65FEBBE211D8E4E00213818 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D65FEBBD211D8E4E00213818 /* Assets.xcassets */; };
 		D65FEBC1211D8E4E00213818 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D65FEBBF211D8E4E00213818 /* LaunchScreen.storyboard */; };
 		D65FEBC9211D8F0400213818 /* ListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65FEBC8211D8F0400213818 /* ListTableViewController.swift */; };
+		D687A3942122C55600B6BD51 /* UserInfo.plist in Resources */ = {isa = PBXBuildFile; fileRef = D687A3932122C55600B6BD51 /* UserInfo.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D65FEBC0211D8E4E00213818 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D65FEBC2211D8E4E00213818 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D65FEBC8211D8F0400213818 /* ListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListTableViewController.swift; sourceTree = "<group>"; };
+		D687A3932122C55600B6BD51 /* UserInfo.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = UserInfo.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				D65FEBBF211D8E4E00213818 /* LaunchScreen.storyboard */,
 				D65FEBC2211D8E4E00213818 /* Info.plist */,
 				D65FEBC8211D8F0400213818 /* ListTableViewController.swift */,
+				D687A3932122C55600B6BD51 /* UserInfo.plist */,
 			);
 			path = ListTableView;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 				D65FEBC1211D8E4E00213818 /* LaunchScreen.storyboard in Resources */,
 				D65FEBBE211D8E4E00213818 /* Assets.xcassets in Resources */,
 				D65FEBBC211D8E4D00213818 /* Main.storyboard in Resources */,
+				D687A3942122C55600B6BD51 /* UserInfo.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
